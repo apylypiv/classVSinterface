@@ -1,0 +1,7 @@
+C:\Users\Andriy_Pylypiv\Desktop\E_Learing\1_NETLabs\classVSinterface\classVSinterface\bin\Debug\classVSinterface.exe.config
+C:\Users\Andriy_Pylypiv\Desktop\E_Learing\1_NETLabs\classVSinterface\classVSinterface\bin\Debug\classVSinterface.exe
+C:\Users\Andriy_Pylypiv\Desktop\E_Learing\1_NETLabs\classVSinterface\classVSinterface\bin\Debug\classVSinterface.pdb
+C:\Users\Andriy_Pylypiv\Desktop\E_Learing\1_NETLabs\classVSinterface\classVSinterface\obj\Debug\classVSinterface.csprojResolveAssemblyReference.cache
+C:\Users\Andriy_Pylypiv\Desktop\E_Learing\1_NETLabs\classVSinterface\classVSinterface\obj\Debug\classVSinterface.csproj.CoreCompileInputs.cache
+C:\Users\Andriy_Pylypiv\Desktop\E_Learing\1_NETLabs\classVSinterface\classVSinterface\obj\Debug\classVSinterface.exe
+C:\Users\Andriy_Pylypiv\Desktop\E_Learing\1_NETLabs\classVSinterface\classVSinterface\obj\Debug\classVSinterface.pdb
