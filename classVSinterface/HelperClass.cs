@@ -13,4 +13,13 @@ namespace classVSinterface
             return;
         }
     }
+
+    class HelperClass123
+    {
+        public void getHelp123()
+        {
+            return;
+        }
+    }
+
 }
